@@ -58,26 +58,6 @@ The project was created to improve programming skills, particularly:
 * Saves the result to:
  * ascii_image.txt
 
----
-
-## How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/ascii-image-converter.git
-
-2. Navigate to the project folder:
-
-*cd ascii-image-converter
-
-3.Install dependencies:
-
-*pip install pillow
-
-4. Make sure your image file is named:
-
-*image.png
 
 (or update the filename in main.py)
 
