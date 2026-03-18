@@ -57,10 +57,3 @@ The project was created to improve programming skills, particularly:
 * Prints the ASCII art in the terminal
 * Saves the result to:
  * ascii_image.txt
-
-
-(or update the filename in main.py)
-
-5. Run the script:
-
-*python main.py
